@@ -1,0 +1,406 @@
+[
+    {
+        "question": "hi",
+        "answer": "Hello! Welcome to the Student Chatbot. How can I help you?"
+    },
+    {
+        "question": "hello",
+        "answer": "Hello! How may I assist you today?"
+    },
+    {
+        "question": "hey",
+        "answer": "Hi! Welcome to our college chatbot."
+    },
+    {
+        "question": "good morning",
+        "answer": "Good morning! How can I help you?"
+    },
+    {
+        "question": "good afternoon",
+        "answer": "Good afternoon!"
+    },
+    {
+        "question": "good evening",
+        "answer": "Good evening!"
+    },
+    {
+        "question": "how are you",
+        "answer": "I'm doing well. How can I assist you?"
+    },
+    {
+        "question": "what is your name",
+        "answer": "I am the Student Chatbot."
+    },
+    {
+        "question": "who created you",
+        "answer": "I was created using Python and Flask for a BCA project."
+    },
+    {
+        "question": "bye",
+        "answer": "Goodbye! Have a great day."
+    },
+    {
+        "question": "college name",
+        "answer": "The college name is JVIT College."
+    },
+    {
+        "question": "college timings",
+        "answer": "College timings are 9:00 AM to 4:00 PM."
+    },
+    {
+        "question": "where is the college located ",
+        "answer": "The college is located at MG Road, Bangalore."
+    },
+    {
+        "question": "college address",
+        "answer": "The college is located at MG Road, Bangalore."
+    },
+    {
+        "question": "college website",
+        "answer": "Visit our official website for more information."
+    },
+    {
+        "question": "college email",
+        "answer": "The official email is info@jvitcollege.edu."
+    },
+    {
+        "question": "college phone number",
+        "answer": "You can contact the office at +91-9876543210."
+    },
+    {
+        "question": "principal name",
+        "answer": "The Principal is Dr.Srinivas."
+    },
+    {
+        "question": "vice principal",
+        "answer": "The Vice Principal is Prof.Roopa."
+    },
+    {
+        "question": "office timings",
+        "answer": "Office timings are 9:00 AM to 5:00 PM."
+    },
+    {
+        "question": "library timings",
+        "answer": "The library is open from 8:30 AM to 5:30 PM."
+    },
+    {
+        "question": "courses offered",
+        "answer": "We offer BCA, BBA, BCom and BA courses."
+    },
+    {
+        "question": "bca course",
+        "answer": "BCA is a 3-year undergraduate course in Computer Applications."
+    },
+    {
+        "question": "bba course",
+        "answer": "BBA is a 3-year undergraduate management course."
+    },
+    {
+        "question": "bcom course",
+        "answer": "BCom is a 3-year undergraduate commerce course."
+    },
+    {
+        "question": "admission process",
+        "answer": "Admissions are based on eligibility and document verification."
+    },
+    {
+        "question": "admission fee",
+        "answer": "Please contact the admission office for the latest fee details."
+    },
+    {
+        "question": "eligibility",
+        "answer": "Candidates must have passed 12th standard from a recognized board."
+    },
+    {
+        "question": "documents required",
+        "answer": "10th, 12th marks cards, transfer certificate, Aadhaar and passport-size photos."
+    },
+    {
+        "question": "application form",
+        "answer": "Application forms are available in the admission office."
+    },
+    {
+        "question": "last date for admission",
+        "answer": "Please contact the admission office for the latest deadline."
+    },
+    {
+        "question": "semester system",
+        "answer": "The college follows a semester system."
+    },
+    {
+        "question": "exam timetable",
+        "answer": "The exam timetable is announced before examinations."
+    },
+    {
+        "question": "exam fees",
+        "answer": "Exam fees are notified by the examination section."
+    },
+    {
+        "question": "internal marks",
+        "answer": "Internal marks are based on tests, assignments and attendance."
+    },
+    {
+        "question": "attendance",
+        "answer": "Students should maintain at least 75% attendance."
+    },
+    {
+        "question": "minimum attendance",
+        "answer": "The minimum required attendance is 75%."
+    },
+    {
+        "question": "results",
+        "answer": "Results are published after evaluation."
+    },
+    {
+        "question": "revaluation",
+        "answer": "Students can apply for revaluation after results are announced."
+    },
+    {
+        "question": "supplementary exam",
+        "answer": "Supplementary exams are conducted as per university rules."
+    },
+    {
+        "question": "grading system",
+        "answer": "The college follows the university grading system."
+    },
+    {
+        "question": "hostel",
+        "answer": "Hostel facilities are available for eligible students."
+    },
+    {
+        "question": "hostel fees",
+        "answer": "Please contact the hostel office for fee details."
+    },
+    {
+        "question": "canteen",
+        "answer": "The college has a hygienic canteen for students."
+    },
+    {
+        "question": "wifi",
+        "answer": "Wi-Fi is available on campus."
+    },
+    {
+        "question": "computer lab",
+        "answer": "The computer lab is equipped with modern systems."
+    },
+    {
+        "question": "science lab",
+        "answer": "Science laboratories are available for practical sessions."
+    },
+    {
+        "question": "sports",
+        "answer": "The college provides indoor and outdoor sports facilities."
+    },
+    {
+        "question": "gym",
+        "answer": "Gym facilities are available for students."
+    },
+    {
+        "question": "transport",
+        "answer": "Bus transportation is available on selected routes."
+    },
+    {
+        "question": "parking",
+        "answer": "Parking facilities are available for students and staff."
+    },
+    {
+        "question": "placement",
+        "answer": "The placement cell assists students with job opportunities."
+    },
+    {
+        "question": "placement cell",
+        "answer": "The placement cell organizes campus recruitment drives."
+    },
+    {
+        "question": "internship",
+        "answer": "The college encourages students to complete internships."
+    },
+    {
+        "question": "career guidance",
+        "answer": "Career guidance programs are conducted regularly."
+    },
+    {
+        "question": "resume help",
+        "answer": "The placement cell helps students prepare resumes."
+    },
+    {
+        "question": "mock interview",
+        "answer": "Mock interview sessions are conducted before placements."
+    },
+    {
+        "question": "companies visiting",
+        "answer": "Various reputed companies visit the campus for recruitment."
+    },
+    {
+        "question": "highest package",
+        "answer": "Please contact the placement cell for the latest statistics."
+    },
+    {
+        "question": "average package",
+        "answer": "Placement details are available in the placement office."
+    },
+    {
+        "question": "training",
+        "answer": "Soft skills and technical training are provided."
+    },
+    {
+        "question": "scholarship",
+        "answer": "Eligible students can apply for scholarships."
+    },
+    {
+        "question": "scholarship eligibility",
+        "answer": "Scholarship eligibility depends on government and college rules."
+    },
+    {
+        "question": "fee payment",
+        "answer": "Fees can be paid through the college office or online portal."
+    },
+    {
+        "question": "fee refund",
+        "answer": "Fee refund is subject to college policy."
+    },
+    {
+        "question": "bank details",
+        "answer": "Please contact the accounts section for bank details."
+    },
+    {
+        "question": "identity card",
+        "answer": "Students receive an ID card after admission."
+    },
+    {
+        "question": "bonafide certificate",
+        "answer": "Bonafide certificates are issued by the office."
+    },
+    {
+        "question": "transfer certificate",
+        "answer": "Transfer certificates are issued on request."
+    },
+    {
+        "question": "migration certificate",
+        "answer": "Migration certificates are issued according to university guidelines."
+    },
+    {
+        "question": "character certificate",
+        "answer": "Character certificates are available after course completion."
+    },
+    {
+        "question": "holiday list",
+        "answer": "Holiday lists are announced by the college."
+    },
+    {
+        "question": "working days",
+        "answer": "The college works from Monday to Saturday."
+    },
+    {
+        "question": "uniform",
+        "answer": "Students should follow the prescribed dress code."
+    },
+    {
+        "question": "dress code",
+        "answer": "Students are expected to dress formally."
+    },
+    {
+        "question": "ragging",
+        "answer": "Ragging is strictly prohibited."
+    },
+    {
+        "question": "anti ragging",
+        "answer": "The college has an Anti-Ragging Committee."
+    },
+    {
+        "question": "discipline",
+        "answer": "Students must maintain discipline on campus."
+    },
+    {
+        "question": "student council",
+        "answer": "The college has an active student council."
+    },
+    {
+        "question": "clubs",
+        "answer": "Various technical and cultural clubs are available."
+    },
+    {
+        "question": "events",
+        "answer": "The college conducts technical, cultural and sports events."
+    },
+    {
+        "question": "annual fest",
+        "answer": "The annual fest is conducted once every academic year."
+    },
+    {
+        "question": "cultural activities",
+        "answer": "Students are encouraged to participate in cultural activities."
+    },
+    {
+        "question": "nss",
+        "answer": "The college has an active NSS unit."
+    },
+    {
+        "question": "ncc",
+        "answer": "NCC is available for eligible students."
+    },
+    {
+        "question": "seminars",
+        "answer": "Seminars and workshops are conducted regularly."
+    },
+    {
+        "question": "workshops",
+        "answer": "The college organizes technical workshops throughout the year."
+    },
+    {
+        "question": "project guidance",
+        "answer": "Faculty members guide students in academic projects."
+    },
+    {
+        "question": "final year project",
+        "answer": "Final-year students must complete a project as per university guidelines."
+    },
+    {
+        "question": "research",
+        "answer": "The college encourages research and innovation."
+    },
+    {
+        "question": "faculty",
+        "answer": "The college has experienced and qualified faculty members."
+    },
+    {
+        "question": "hod",
+        "answer": "Please contact your department office for HOD details."
+    },
+    {
+        "question": "department",
+        "answer": "The college has multiple academic departments."
+    },
+    {
+        "question": "class timings",
+        "answer": "Class timings vary according to the timetable."
+    },
+    {
+        "question": "time table",
+        "answer": "The timetable is available from your department."
+    },
+    {
+        "question": "leave application",
+        "answer": "Students should submit leave applications to the class teacher."
+    },
+    {
+        "question": "medical leave",
+        "answer": "Medical leave requires a valid medical certificate."
+    },
+    {
+        "question": "lost id card",
+        "answer": "Report immediately to the office for a duplicate ID card."
+    },
+    {
+        "question": "contact office",
+        "answer": "Please visit the administration office during working hours."
+    },
+    {
+        "question": "help",
+        "answer": "Please ask your college-related question and I'll try to help."
+    },
+    {
+        "question": "thank you",
+        "answer": "You're welcome! Have a wonderful day."
+    }
+]

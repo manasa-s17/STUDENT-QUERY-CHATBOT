@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+</html>head>
+<title>Student AI Assistant Always here to help!</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="chat-container">
+
+        <div class="header">
+            🎓 Student AI assistant Chatbot
+        </div>
+
+        <div id="chat-box" class="chat-box"></div>
+
+        <div class="input-area">
+
+            <input type="text" id="user-input" placeholder="Ask your question..." autocomplete="off">
+
+            <button onclick="sendMessage()">➤</button>
+
+        </div>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <button onclick="clearChat()">Clear Chat</button>
+
+</body>
+
+</html>
